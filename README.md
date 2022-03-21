@@ -34,7 +34,7 @@ Crie um banco de dados no programa PostgreSQL
 
 Execute o PGSQL.py para a criação das tebelas
 ```
-
+```
 Inice o programa pelo body.py
 ```
 
