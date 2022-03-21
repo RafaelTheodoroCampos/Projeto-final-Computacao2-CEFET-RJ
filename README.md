@@ -8,10 +8,10 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ### 📋 Pré-requisitos
 
-É necessário a installação do [PostgreSQL](https://www.postgresql.org/)
-É necessário ter instalado o [Python](https://www.python.org/) na versão 3+
+É necessário a installação do [PostgreSQL](https://www.postgresql.org/).
+É necessário ter instalado o [Python](https://www.python.org/) na versão 3+,
 biblioteca PySimpleGUI
-biblioteca Tkinter
+e biblioteca Tkinter
 
 ```
 pip install PySimpleGUI
