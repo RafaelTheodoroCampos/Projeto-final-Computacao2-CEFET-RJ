@@ -58,4 +58,4 @@ Inice o programa pelo body.py
 
 
 ---
-⌨️ com ❤️ por [João Victor de Mello Pereira](https://github.com/kifel) e [Rafael Theodoro Campos](https://github.com/RafaelTheodoroCampos) 😊
+⌨️ com 😠 por [João Victor de Mello Pereira](https://github.com/kifel) e [Rafael Theodoro Campos](https://github.com/RafaelTheodoroCampos) 😊
