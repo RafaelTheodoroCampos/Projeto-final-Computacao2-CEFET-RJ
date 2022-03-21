@@ -32,11 +32,15 @@ Após baixar os arquivos:
 Crie um banco de dados no programa PostgreSQL
 ```
 
-Execute o PGSQL.py para a criação das tebelas
+Criando tabelas no banco de dados para a criação das tebelas:
 ```
+Execute o PGSQL.py
 ```
-Inice o programa pelo body.py
+Iniciando o programa:
 ```
+Execute o body.py
+```
+
 
 ## 🛠️ Construído com
 
