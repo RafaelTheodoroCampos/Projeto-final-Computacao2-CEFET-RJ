@@ -41,7 +41,7 @@ Inice o programa pelo body.py
 ## 🛠️ Construído com
 
 * [Visual Studio Code](https://code.visualstudio.com/) - ferramenta de desenvolvimento
-* [PostgreSQL](https://www.postgresql.org/)
+* [PostgreSQL](https://www.postgresql.org/) - Banco de dados
 
 ## ✒️ Autores
 
